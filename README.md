@@ -1,5 +1,6 @@
 # Auto-Wallpaper
 Live Refreshing HD Wallpapers
+![Auto Wallpaper](./icon.ico)
 
 Simple python script to get refreshing wallpapers in windows os
 
