@@ -21,11 +21,11 @@ Simple python script to get refreshing wallpapers in windows os
     "keywords": ["mountains", "trees"]
   }
   `
-  - *source:* "unsplash" // will add more
-  - *size:* "your display resolution"
-  - "interval:" Wallpaper change frequesncy in seeconds
-  - "filename:" current wallpaper name
-  - "keywords:" List of keywords for wallpapers eg. space, forest, etc
+  - **source:** "unsplash" // will add more
+  - **size:** "your display resolution"
+  - **interval:** Wallpaper change frequesncy in seeconds
+  - **filename:** current wallpaper name
+  - **keywords:** List of keywords for wallpapers eg. space, forest, etc
 
 3. Once you edit config.json. restart the app from system tray options
 
