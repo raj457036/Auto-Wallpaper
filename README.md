@@ -4,7 +4,7 @@ Live Refreshing HD Wallpapers
 Simple python script to get refreshing wallpapers in windows os
 
 ## How To Use
-1. Download AutoWallpaper.exe from [here]('https://github.com/raj457036/Auto-Wallpaper/blob/master/dist/AutoWallpaper.exe')
+1. Download AutoWallpaper.exe from [here](https://github.com/raj457036/Auto-Wallpaper/blob/master/dist/AutoWallpaper.exe)
 2. Execute it & done
 
 ## To change config
