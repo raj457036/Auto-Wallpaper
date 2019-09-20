@@ -1,0 +1,8 @@
+
+{
+    "source": "unsplash",
+    "size": "1920x1080",
+    "interval": 30,
+    "filename": "current.jpg",
+    "keywords": ["mountains"]
+}
